@@ -1,0 +1,16 @@
+102:void do_int3(long * esp, long error_code,
+103:		long fs,long es,long ds,
+104:		long ebp,long esi,long edi,
+105:		long edx,long ecx,long ebx,long eax)
+106:{
+107:	int tr;
+108:
+109:	__asm__("str %%ax":"=a" (tr):"0" (0));
+110:	printk("eax\t\tebx\t\tecx\t\tedx\n\r%8x\t%8x\t%8x\t%8x\n\r",
+111:		eax,ebx,ecx,edx);
+112:	printk("esi\t\tedi\t\tebp\t\tesp\n\r%8x\t%8x\t%8x\t%8x\n\r",
+113:		esi,edi,ebp,(long) esp);
+114:	printk("\n\rds\tes\tfs\ttr\n\r%4x\t%4x\t%4x\t%4x\n\r",
+115:		ds,es,fs,tr);
+116:	printk("EIP: %8x   CS: %4x  EFLAGS: %8x\n\r",esp[0],esp[1],esp[2]);
+117:}

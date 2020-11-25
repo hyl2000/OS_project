@@ -1,0 +1,21 @@
+21:int printk(const char *fmt, ...)
+22:{
+23:	va_list args;
+24:	int i;
+25:
+26:	va_start(args, fmt);
+27:	i=vsprintf(buf,fmt,args);
+28:	va_end(args);
+29:	__asm__("push %%fs\n\t"
+30:		"push %%ds\n\t"
+31:		"pop %%fs\n\t"
+32:		"pushl %0\n\t"
+33:		"pushl $buf\n\t"
+34:		"pushl $0\n\t"
+35:		"call tty_write\n\t"
+36:		"addl $8,%%esp\n\t"
+37:		"popl %0\n\t"
+38:		"pop %%fs"
+39:		::"r" (i):"ax","cx","dx");
+40:	return i;
+41:}

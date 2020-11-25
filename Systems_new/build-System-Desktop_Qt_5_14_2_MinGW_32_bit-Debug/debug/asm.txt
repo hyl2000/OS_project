@@ -1,0 +1,35 @@
+21: no_error_code:
+22: 	xchgl %eax,(%esp)
+23:	pushl %ebx
+24: 	pushl %ecx
+25:	pushl %edx
+26:	pushl %edi
+27:	pushl %esi
+28:	pushl %ebp
+29:	push %ds
+30:	push %es
+31:	push %fs
+32:	pushl $0		# "error code"
+33:	lea 44(%esp),%edx
+34:	pushl %edx
+35:	movl $0x10,%edx
+36:	mov %dx,%ds
+37:	mov %dx,%es
+38:	mov %dx,%fs
+39:	call *%eax
+40:	addl $8,%esp
+41:	pop %fs
+42:	pop %es
+43:	pop %ds
+44:	popl %ebp
+45:	popl %esi
+46:	popl %edi
+47:	popl %edx
+48:	popl %ecx
+49:	popl %ebx
+50:	popl %eax
+51:	iret
+
+61:int3:
+62:	pushl $do_int3
+63:	jmp no_error_code

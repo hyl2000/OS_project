@@ -1,0 +1,37 @@
+291:int tty_write(unsigned channel, char * buf, int nr)
+292:{
+293:	static int cr_flag=0;
+294:	struct tty_struct * tty;
+295:	char c, *b=buf;
+296:
+297:	if (channel>2 || nr<0) return -1;
+298:	tty = channel + tty_table;
+299:	while (nr>0) {
+300:		sleep_if_full(&tty->write_q);
+301:		if (current->signal)
+302:			break;
+303:		while (nr>0 && !FULL(tty->write_q)) {
+304:			c=get_fs_byte(b);
+305:			if (O_POST(tty)) {
+306:				if (c=='\r' && O_CRNL(tty))
+307:					c='\n';
+308:				else if (c=='\n' && O_NLRET(tty))
+309:					c='\r';
+310:				if (c=='\n' && !cr_flag && O_NLCR(tty)) {
+311:					cr_flag = 1;
+312:					PUTCH(13,tty->write_q);
+313:					continue;
+314:				}
+315:				if (O_LCUC(tty))
+316:					c=toupper(c);
+317:			}
+318:			b++; nr--;
+319:			cr_flag = 0;
+320:			PUTCH(c,tty->write_q);
+321:		}
+322:		tty->write(tty);
+323:		if (nr>0)
+324:			schedule();
+325:	}
+326:	return (b-buf);
+327:}
