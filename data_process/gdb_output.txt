@@ -1,0 +1,2154 @@
+Breakpoint 7, no_error_code () at asm.s:22
+22		xchgl %eax,(%esp)
+ss             0x10	16
+esp            0xfa9fe8	0xfa9fe8
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x845d	0x845d <no_error_code>
+eax            0x3ffff14	67108628
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 9, no_error_code () at asm.s:24
+24		pushl %ecx
+ss             0x10	16
+esp            0xfa9fe8	0xfa9fe8
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8461	0x8461 <no_error_code+4>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 9, no_error_code () at asm.s:24
+24		pushl %ecx
+ss             0x10	16
+esp            0xfa9fe4	0xfa9fe4
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8461	0x8461 <no_error_code+4>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 11, no_error_code () at asm.s:26
+26		pushl %edi
+ss             0x10	16
+esp            0xfa9fe0	0xfa9fe0
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8463	0x8463 <no_error_code+6>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 11, no_error_code () at asm.s:26
+26		pushl %edi
+ss             0x10	16
+esp            0xfa9fdc	0xfa9fdc
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8463	0x8463 <no_error_code+6>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 13, no_error_code () at asm.s:28
+28		pushl %ebp
+ss             0x10	16
+esp            0xfa9fd8	0xfa9fd8
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8465	0x8465 <no_error_code+8>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 13, no_error_code () at asm.s:28
+28		pushl %ebp
+ss             0x10	16
+esp            0xfa9fd4	0xfa9fd4
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8465	0x8465 <no_error_code+8>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 15, no_error_code () at asm.s:30
+30		push %es
+ss             0x10	16
+esp            0xfa9fd0	0xfa9fd0
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8467	0x8467 <no_error_code+10>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 15, no_error_code () at asm.s:30
+30		push %es
+ss             0x10	16
+esp            0xfa9fcc	0xfa9fcc
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8467	0x8467 <no_error_code+10>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 17, no_error_code () at asm.s:32
+32		pushl $0		# "error code"
+ss             0x10	16
+esp            0xfa9fc4	0xfa9fc4
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x846a	0x846a <no_error_code+13>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 19, no_error_code () at asm.s:34
+34		pushl %edx
+ss             0x10	16
+esp            0xfa9fc0	0xfa9fc0
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8470	0x8470 <no_error_code+19>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0xfa9fec	16424940
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 21, no_error_code () at asm.s:36
+36		mov %dx,%ds
+ss             0x10	16
+esp            0xfa9fbc	0xfa9fbc
+eflags         0x202	[ IF ]
+cs             0x8	8
+eip            0x8476	0x8476 <no_error_code+25>
+eax            0x7d97	32151
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x10	16
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 23, no_error_code () at asm.s:38
+38		mov %dx,%fs
+ebx            0x5dc0c	384012
+
+
+    eax=67108628) at traps.c:109
+109		__asm__("str %%ax":"=a" (tr):"0" (0));
+$472 = (long *) 0xfa9fec
+$473 = 0
+$474 = 327703
+$475 = 23
+$476 = 23
+$477 = 67108600
+$478 = 1
+$479 = 4092
+$480 = 307532
+$481 = 385420
+$482 = 384012
+$483 = 67108628
+
+
+    eax=67108628) at traps.c:110
+110		printk("eax\t\tebx\t\tecx\t\tedx\n\r%8x\t%8x\t%8x\t%8x\n\r",
+$484 = 96
+
+
+    at printk.c:26
+26		va_start(args, fmt);
+$485 = "Hello, Linux 0.11\n\000odes\n\r", '\000' <repeats 998 times>
+
+
+    at printk.c:29
+29		__asm__("push %%fs\n\t"
+$486 = "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", '\000' <repeats 966 times>
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=57) at tty_io.c:297
+297		if (channel>2 || nr<0) return -1;
+$487 = 0
+$488 = 0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$489 = 57
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=57) at tty_io.c:305
+305				if (O_POST(tty)) {
+$490 = 0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$491 = 101 'e'
+$492 = {data = 0, head = 876, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=56) at tty_io.c:305
+305				if (O_POST(tty)) {
+$493 = 0x262c1 <buf+1> "ax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$494 = 97 'a'
+$495 = {data = 0, head = 877, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=55) at tty_io.c:305
+305				if (O_POST(tty)) {
+$496 = 0x262c2 <buf+2> "x\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$497 = 120 'x'
+$498 = {data = 0, head = 878, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=54) at tty_io.c:305
+305				if (O_POST(tty)) {
+$499 = 0x262c3 <buf+3> "\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$500 = 9 '\t'
+$501 = {data = 0, head = 879, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=53) at tty_io.c:305
+305				if (O_POST(tty)) {
+$502 = 0x262c4 <buf+4> "\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$503 = 9 '\t'
+$504 = {data = 0, head = 880, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=52) at tty_io.c:305
+305				if (O_POST(tty)) {
+$505 = 0x262c5 <buf+5> "ebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$506 = 101 'e'
+$507 = {data = 0, head = 881, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=51) at tty_io.c:305
+305				if (O_POST(tty)) {
+$508 = 0x262c6 <buf+6> "bx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$509 = 98 'b'
+$510 = {data = 0, head = 882, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=50) at tty_io.c:305
+305				if (O_POST(tty)) {
+$511 = 0x262c7 <buf+7> "x\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$512 = 120 'x'
+$513 = {data = 0, head = 883, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=49) at tty_io.c:305
+305				if (O_POST(tty)) {
+$514 = 0x262c8 <buf+8> "\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$515 = 9 '\t'
+$516 = {data = 0, head = 884, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=48) at tty_io.c:305
+305				if (O_POST(tty)) {
+$517 = 0x262c9 <buf+9> "\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$518 = 9 '\t'
+$519 = {data = 0, head = 885, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=47) at tty_io.c:305
+305				if (O_POST(tty)) {
+$520 = 0x262ca <buf+10> "ecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$521 = 101 'e'
+$522 = {data = 0, head = 886, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=46) at tty_io.c:305
+305				if (O_POST(tty)) {
+$523 = 0x262cb <buf+11> "cx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$524 = 99 'c'
+$525 = {data = 0, head = 887, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=45) at tty_io.c:305
+305				if (O_POST(tty)) {
+$526 = 0x262cc <buf+12> "x\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$527 = 120 'x'
+$528 = {data = 0, head = 888, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=44) at tty_io.c:305
+305				if (O_POST(tty)) {
+$529 = 0x262cd <buf+13> "\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$530 = 9 '\t'
+$531 = {data = 0, head = 889, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=43) at tty_io.c:305
+305				if (O_POST(tty)) {
+$532 = 0x262ce <buf+14> "\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$533 = 9 '\t'
+$534 = {data = 0, head = 890, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=42) at tty_io.c:305
+305				if (O_POST(tty)) {
+$535 = 0x262cf <buf+15> "edx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$536 = 101 'e'
+$537 = {data = 0, head = 891, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=41) at tty_io.c:305
+305				if (O_POST(tty)) {
+$538 = 0x262d0 <buf+16> "dx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$539 = 100 'd'
+$540 = {data = 0, head = 892, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=40) at tty_io.c:305
+305				if (O_POST(tty)) {
+$541 = 0x262d1 <buf+17> "x\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$542 = 120 'x'
+$543 = {data = 0, head = 893, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=39) at tty_io.c:305
+305				if (O_POST(tty)) {
+$544 = 0x262d2 <buf+18> "\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$545 = 10 '\n'
+$546 = {data = 0, head = 894, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=39) at tty_io.c:305
+305				if (O_POST(tty)) {
+$547 = 0x262d2 <buf+18> "\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$548 = 10 '\n'
+$549 = {data = 0, head = 895, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=38) at tty_io.c:305
+305				if (O_POST(tty)) {
+$550 = 0x262d3 <buf+19> "\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$551 = 13 '\r'
+$552 = {data = 0, head = 896, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=37) at tty_io.c:305
+305				if (O_POST(tty)) {
+$553 = 0x262d4 <buf+20> " 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$554 = 32 ' '
+$555 = {data = 0, head = 897, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=36) at tty_io.c:305
+305				if (O_POST(tty)) {
+$556 = 0x262d5 <buf+21> "3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$557 = 51 '3'
+$558 = {data = 0, head = 898, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=35) at tty_io.c:305
+305				if (O_POST(tty)) {
+$559 = 0x262d6 <buf+22> "ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$560 = 102 'f'
+$561 = {data = 0, head = 899, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=34) at tty_io.c:305
+305				if (O_POST(tty)) {
+$562 = 0x262d7 <buf+23> "fff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$563 = 102 'f'
+$564 = {data = 0, head = 900, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=33) at tty_io.c:305
+305				if (O_POST(tty)) {
+$565 = 0x262d8 <buf+24> "ff14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$566 = 102 'f'
+$567 = {data = 0, head = 901, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=32) at tty_io.c:305
+305				if (O_POST(tty)) {
+$568 = 0x262d9 <buf+25> "f14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$569 = 102 'f'
+$570 = {data = 0, head = 902, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=31) at tty_io.c:305
+305				if (O_POST(tty)) {
+$571 = 0x262da <buf+26> "14\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$572 = 49 '1'
+$573 = {data = 0, head = 903, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=30) at tty_io.c:305
+305				if (O_POST(tty)) {
+$574 = 0x262db <buf+27> "4\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$575 = 52 '4'
+$576 = {data = 0, head = 904, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=29) at tty_io.c:305
+305				if (O_POST(tty)) {
+$577 = 0x262dc <buf+28> "\t   5dc0c\t   5e18c\t   4b14c\n\r"
+$578 = 9 '\t'
+$579 = {data = 0, head = 905, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=28) at tty_io.c:305
+305				if (O_POST(tty)) {
+$580 = 0x262dd <buf+29> "   5dc0c\t   5e18c\t   4b14c\n\r"
+$581 = 32 ' '
+$582 = {data = 0, head = 906, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=27) at tty_io.c:305
+305				if (O_POST(tty)) {
+$583 = 0x262de <buf+30> "  5dc0c\t   5e18c\t   4b14c\n\r"
+$584 = 32 ' '
+$585 = {data = 0, head = 907, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=26) at tty_io.c:305
+305				if (O_POST(tty)) {
+$586 = 0x262df <buf+31> " 5dc0c\t   5e18c\t   4b14c\n\r"
+$587 = 32 ' '
+$588 = {data = 0, head = 908, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=25) at tty_io.c:305
+305				if (O_POST(tty)) {
+$589 = 0x262e0 <buf+32> "5dc0c\t   5e18c\t   4b14c\n\r"
+$590 = 53 '5'
+$591 = {data = 0, head = 909, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=24) at tty_io.c:305
+305				if (O_POST(tty)) {
+$592 = 0x262e1 <buf+33> "dc0c\t   5e18c\t   4b14c\n\r"
+$593 = 100 'd'
+$594 = {data = 0, head = 910, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=23) at tty_io.c:305
+305				if (O_POST(tty)) {
+$595 = 0x262e2 <buf+34> "c0c\t   5e18c\t   4b14c\n\r"
+$596 = 99 'c'
+$597 = {data = 0, head = 911, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=22) at tty_io.c:305
+305				if (O_POST(tty)) {
+$598 = 0x262e3 <buf+35> "0c\t   5e18c\t   4b14c\n\r"
+$599 = 48 '0'
+$600 = {data = 0, head = 912, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=21) at tty_io.c:305
+305				if (O_POST(tty)) {
+$601 = 0x262e4 <buf+36> "c\t   5e18c\t   4b14c\n\r"
+$602 = 99 'c'
+$603 = {data = 0, head = 913, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=20) at tty_io.c:305
+305				if (O_POST(tty)) {
+$604 = 0x262e5 <buf+37> "\t   5e18c\t   4b14c\n\r"
+$605 = 9 '\t'
+$606 = {data = 0, head = 914, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=19) at tty_io.c:305
+305				if (O_POST(tty)) {
+$607 = 0x262e6 <buf+38> "   5e18c\t   4b14c\n\r"
+$608 = 32 ' '
+$609 = {data = 0, head = 915, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=18) at tty_io.c:305
+305				if (O_POST(tty)) {
+$610 = 0x262e7 <buf+39> "  5e18c\t   4b14c\n\r"
+$611 = 32 ' '
+$612 = {data = 0, head = 916, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=17) at tty_io.c:305
+305				if (O_POST(tty)) {
+$613 = 0x262e8 <buf+40> " 5e18c\t   4b14c\n\r"
+$614 = 32 ' '
+$615 = {data = 0, head = 917, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=16) at tty_io.c:305
+305				if (O_POST(tty)) {
+$616 = 0x262e9 <buf+41> "5e18c\t   4b14c\n\r"
+$617 = 53 '5'
+$618 = {data = 0, head = 918, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=15) at tty_io.c:305
+305				if (O_POST(tty)) {
+$619 = 0x262ea <buf+42> "e18c\t   4b14c\n\r"
+$620 = 101 'e'
+$621 = {data = 0, head = 919, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=14) at tty_io.c:305
+305				if (O_POST(tty)) {
+$622 = 0x262eb <buf+43> "18c\t   4b14c\n\r"
+$623 = 49 '1'
+$624 = {data = 0, head = 920, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=13) at tty_io.c:305
+305				if (O_POST(tty)) {
+$625 = 0x262ec <buf+44> "8c\t   4b14c\n\r"
+$626 = 56 '8'
+$627 = {data = 0, head = 921, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=12) at tty_io.c:305
+305				if (O_POST(tty)) {
+$628 = 0x262ed <buf+45> "c\t   4b14c\n\r"
+$629 = 99 'c'
+$630 = {data = 0, head = 922, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=11) at tty_io.c:305
+305				if (O_POST(tty)) {
+$631 = 0x262ee <buf+46> "\t   4b14c\n\r"
+$632 = 9 '\t'
+$633 = {data = 0, head = 923, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=10) at tty_io.c:305
+305				if (O_POST(tty)) {
+$634 = 0x262ef <buf+47> "   4b14c\n\r"
+$635 = 32 ' '
+$636 = {data = 0, head = 924, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=9) at tty_io.c:305
+305				if (O_POST(tty)) {
+$637 = 0x262f0 <buf+48> "  4b14c\n\r"
+$638 = 32 ' '
+$639 = {data = 0, head = 925, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=8) at tty_io.c:305
+305				if (O_POST(tty)) {
+$640 = 0x262f1 <buf+49> " 4b14c\n\r"
+$641 = 32 ' '
+$642 = {data = 0, head = 926, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=7) at tty_io.c:305
+305				if (O_POST(tty)) {
+$643 = 0x262f2 <buf+50> "4b14c\n\r"
+$644 = 52 '4'
+$645 = {data = 0, head = 927, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=6) at tty_io.c:305
+305				if (O_POST(tty)) {
+$646 = 0x262f3 <buf+51> "b14c\n\r"
+$647 = 98 'b'
+$648 = {data = 0, head = 928, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=5) at tty_io.c:305
+305				if (O_POST(tty)) {
+$649 = 0x262f4 <buf+52> "14c\n\r"
+$650 = 49 '1'
+$651 = {data = 0, head = 929, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=4) at tty_io.c:305
+305				if (O_POST(tty)) {
+$652 = 0x262f5 <buf+53> "4c\n\r"
+$653 = 52 '4'
+$654 = {data = 0, head = 930, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=3) at tty_io.c:305
+305				if (O_POST(tty)) {
+$655 = 0x262f6 <buf+54> "c\n\r"
+$656 = 99 'c'
+$657 = {data = 0, head = 931, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=2) at tty_io.c:305
+305				if (O_POST(tty)) {
+$658 = 0x262f7 <buf+55> "\n\r"
+$659 = 10 '\n'
+$660 = {data = 0, head = 932, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=2) at tty_io.c:305
+305				if (O_POST(tty)) {
+$661 = 0x262f7 <buf+55> "\n\r"
+$662 = 10 '\n'
+$663 = {data = 0, head = 933, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", nr=1) at tty_io.c:305
+305				if (O_POST(tty)) {
+$664 = 0x262f8 <buf+56> "\r"
+$665 = 13 '\r'
+$666 = {data = 0, head = 934, tail = 876, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at printk.c:40
+40		return i;
+$667 = 57
+
+
+    at printk.c:26
+26		va_start(args, fmt);
+$668 = "eax\t\tebx\t\tecx\t\tedx\n\r 3ffff14\t   5dc0c\t   5e18c\t   4b14c\n\r", '\000' <repeats 966 times>
+
+
+    at printk.c:29
+29		__asm__("push %%fs\n\t"
+$669 = "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", '\000' <repeats 966 times>
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=57) at tty_io.c:297
+297		if (channel>2 || nr<0) return -1;
+$670 = 0
+$671 = 0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$672 = 57
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=57) at tty_io.c:305
+305				if (O_POST(tty)) {
+$673 = 0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$674 = 101 'e'
+$675 = {data = 0, head = 935, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=56) at tty_io.c:305
+305				if (O_POST(tty)) {
+$676 = 0x262c1 <buf+1> "si\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$677 = 115 's'
+$678 = {data = 0, head = 936, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=55) at tty_io.c:305
+305				if (O_POST(tty)) {
+$679 = 0x262c2 <buf+2> "i\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$680 = 105 'i'
+$681 = {data = 0, head = 937, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=54) at tty_io.c:305
+305				if (O_POST(tty)) {
+$682 = 0x262c3 <buf+3> "\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$683 = 9 '\t'
+$684 = {data = 0, head = 938, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=53) at tty_io.c:305
+305				if (O_POST(tty)) {
+$685 = 0x262c4 <buf+4> "\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$686 = 9 '\t'
+$687 = {data = 0, head = 939, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=52) at tty_io.c:305
+305				if (O_POST(tty)) {
+$688 = 0x262c5 <buf+5> "edi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$689 = 101 'e'
+$690 = {data = 0, head = 940, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=51) at tty_io.c:305
+305				if (O_POST(tty)) {
+$691 = 0x262c6 <buf+6> "di\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$692 = 100 'd'
+$693 = {data = 0, head = 941, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=50) at tty_io.c:305
+305				if (O_POST(tty)) {
+$694 = 0x262c7 <buf+7> "i\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$695 = 105 'i'
+$696 = {data = 0, head = 942, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=49) at tty_io.c:305
+305				if (O_POST(tty)) {
+$697 = 0x262c8 <buf+8> "\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$698 = 9 '\t'
+$699 = {data = 0, head = 943, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=48) at tty_io.c:305
+305				if (O_POST(tty)) {
+$700 = 0x262c9 <buf+9> "\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$701 = 9 '\t'
+$702 = {data = 0, head = 944, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=47) at tty_io.c:305
+305				if (O_POST(tty)) {
+$703 = 0x262ca <buf+10> "ebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$704 = 101 'e'
+$705 = {data = 0, head = 945, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=46) at tty_io.c:305
+305				if (O_POST(tty)) {
+$706 = 0x262cb <buf+11> "bp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$707 = 98 'b'
+$708 = {data = 0, head = 946, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=45) at tty_io.c:305
+305				if (O_POST(tty)) {
+$709 = 0x262cc <buf+12> "p\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$710 = 112 'p'
+$711 = {data = 0, head = 947, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=44) at tty_io.c:305
+305				if (O_POST(tty)) {
+$712 = 0x262cd <buf+13> "\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$713 = 9 '\t'
+$714 = {data = 0, head = 948, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=43) at tty_io.c:305
+305				if (O_POST(tty)) {
+$715 = 0x262ce <buf+14> "\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$716 = 9 '\t'
+$717 = {data = 0, head = 949, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=42) at tty_io.c:305
+305				if (O_POST(tty)) {
+$718 = 0x262cf <buf+15> "esp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$719 = 101 'e'
+$720 = {data = 0, head = 950, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=41) at tty_io.c:305
+305				if (O_POST(tty)) {
+$721 = 0x262d0 <buf+16> "sp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$722 = 115 's'
+$723 = {data = 0, head = 951, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=40) at tty_io.c:305
+305				if (O_POST(tty)) {
+$724 = 0x262d1 <buf+17> "p\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$725 = 112 'p'
+$726 = {data = 0, head = 952, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=39) at tty_io.c:305
+305				if (O_POST(tty)) {
+$727 = 0x262d2 <buf+18> "\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$728 = 10 '\n'
+$729 = {data = 0, head = 953, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=39) at tty_io.c:305
+305				if (O_POST(tty)) {
+$730 = 0x262d2 <buf+18> "\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$731 = 10 '\n'
+$732 = {data = 0, head = 954, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=38) at tty_io.c:305
+305				if (O_POST(tty)) {
+$733 = 0x262d3 <buf+19> "\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$734 = 13 '\r'
+$735 = {data = 0, head = 955, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=37) at tty_io.c:305
+305				if (O_POST(tty)) {
+$736 = 0x262d4 <buf+20> "       1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$737 = 32 ' '
+$738 = {data = 0, head = 956, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=36) at tty_io.c:305
+305				if (O_POST(tty)) {
+$739 = 0x262d5 <buf+21> "      1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$740 = 32 ' '
+$741 = {data = 0, head = 957, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=35) at tty_io.c:305
+305				if (O_POST(tty)) {
+$742 = 0x262d6 <buf+22> "     1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$743 = 32 ' '
+$744 = {data = 0, head = 958, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=34) at tty_io.c:305
+305				if (O_POST(tty)) {
+$745 = 0x262d7 <buf+23> "    1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$746 = 32 ' '
+$747 = {data = 0, head = 959, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=33) at tty_io.c:305
+305				if (O_POST(tty)) {
+$748 = 0x262d8 <buf+24> "   1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$749 = 32 ' '
+$750 = {data = 0, head = 960, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=32) at tty_io.c:305
+305				if (O_POST(tty)) {
+$751 = 0x262d9 <buf+25> "  1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$752 = 32 ' '
+$753 = {data = 0, head = 961, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=31) at tty_io.c:305
+305				if (O_POST(tty)) {
+$754 = 0x262da <buf+26> " 1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$755 = 32 ' '
+$756 = {data = 0, head = 962, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=30) at tty_io.c:305
+305				if (O_POST(tty)) {
+$757 = 0x262db <buf+27> "1\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$758 = 49 '1'
+$759 = {data = 0, head = 963, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=29) at tty_io.c:305
+305				if (O_POST(tty)) {
+$760 = 0x262dc <buf+28> "\t     ffc\t 3fffef8\t  fa9fec\n\r"
+$761 = 9 '\t'
+$762 = {data = 0, head = 964, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=28) at tty_io.c:305
+305				if (O_POST(tty)) {
+$763 = 0x262dd <buf+29> "     ffc\t 3fffef8\t  fa9fec\n\r"
+$764 = 32 ' '
+$765 = {data = 0, head = 965, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=27) at tty_io.c:305
+305				if (O_POST(tty)) {
+$766 = 0x262de <buf+30> "    ffc\t 3fffef8\t  fa9fec\n\r"
+$767 = 32 ' '
+$768 = {data = 0, head = 966, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=26) at tty_io.c:305
+305				if (O_POST(tty)) {
+$769 = 0x262df <buf+31> "   ffc\t 3fffef8\t  fa9fec\n\r"
+$770 = 32 ' '
+$771 = {data = 0, head = 967, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=25) at tty_io.c:305
+305				if (O_POST(tty)) {
+$772 = 0x262e0 <buf+32> "  ffc\t 3fffef8\t  fa9fec\n\r"
+$773 = 32 ' '
+$774 = {data = 0, head = 968, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=24) at tty_io.c:305
+305				if (O_POST(tty)) {
+$775 = 0x262e1 <buf+33> " ffc\t 3fffef8\t  fa9fec\n\r"
+$776 = 32 ' '
+$777 = {data = 0, head = 969, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=23) at tty_io.c:305
+305				if (O_POST(tty)) {
+$778 = 0x262e2 <buf+34> "ffc\t 3fffef8\t  fa9fec\n\r"
+$779 = 102 'f'
+$780 = {data = 0, head = 970, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=22) at tty_io.c:305
+305				if (O_POST(tty)) {
+$781 = 0x262e3 <buf+35> "fc\t 3fffef8\t  fa9fec\n\r"
+$782 = 102 'f'
+$783 = {data = 0, head = 971, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=21) at tty_io.c:305
+305				if (O_POST(tty)) {
+$784 = 0x262e4 <buf+36> "c\t 3fffef8\t  fa9fec\n\r"
+$785 = 99 'c'
+$786 = {data = 0, head = 972, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=20) at tty_io.c:305
+305				if (O_POST(tty)) {
+$787 = 0x262e5 <buf+37> "\t 3fffef8\t  fa9fec\n\r"
+$788 = 9 '\t'
+$789 = {data = 0, head = 973, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=19) at tty_io.c:305
+305				if (O_POST(tty)) {
+$790 = 0x262e6 <buf+38> " 3fffef8\t  fa9fec\n\r"
+$791 = 32 ' '
+$792 = {data = 0, head = 974, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=18) at tty_io.c:305
+305				if (O_POST(tty)) {
+$793 = 0x262e7 <buf+39> "3fffef8\t  fa9fec\n\r"
+$794 = 51 '3'
+$795 = {data = 0, head = 975, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=17) at tty_io.c:305
+305				if (O_POST(tty)) {
+$796 = 0x262e8 <buf+40> "fffef8\t  fa9fec\n\r"
+$797 = 102 'f'
+$798 = {data = 0, head = 976, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=16) at tty_io.c:305
+305				if (O_POST(tty)) {
+$799 = 0x262e9 <buf+41> "ffef8\t  fa9fec\n\r"
+$800 = 102 'f'
+$801 = {data = 0, head = 977, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=15) at tty_io.c:305
+305				if (O_POST(tty)) {
+$802 = 0x262ea <buf+42> "fef8\t  fa9fec\n\r"
+$803 = 102 'f'
+$804 = {data = 0, head = 978, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=14) at tty_io.c:305
+305				if (O_POST(tty)) {
+$805 = 0x262eb <buf+43> "ef8\t  fa9fec\n\r"
+$806 = 101 'e'
+$807 = {data = 0, head = 979, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=13) at tty_io.c:305
+305				if (O_POST(tty)) {
+$808 = 0x262ec <buf+44> "f8\t  fa9fec\n\r"
+$809 = 102 'f'
+$810 = {data = 0, head = 980, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=12) at tty_io.c:305
+305				if (O_POST(tty)) {
+$811 = 0x262ed <buf+45> "8\t  fa9fec\n\r"
+$812 = 56 '8'
+$813 = {data = 0, head = 981, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=11) at tty_io.c:305
+305				if (O_POST(tty)) {
+$814 = 0x262ee <buf+46> "\t  fa9fec\n\r"
+$815 = 9 '\t'
+$816 = {data = 0, head = 982, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=10) at tty_io.c:305
+305				if (O_POST(tty)) {
+$817 = 0x262ef <buf+47> "  fa9fec\n\r"
+$818 = 32 ' '
+$819 = {data = 0, head = 983, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=9) at tty_io.c:305
+305				if (O_POST(tty)) {
+$820 = 0x262f0 <buf+48> " fa9fec\n\r"
+$821 = 32 ' '
+$822 = {data = 0, head = 984, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=8) at tty_io.c:305
+305				if (O_POST(tty)) {
+$823 = 0x262f1 <buf+49> "fa9fec\n\r"
+$824 = 102 'f'
+$825 = {data = 0, head = 985, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=7) at tty_io.c:305
+305				if (O_POST(tty)) {
+$826 = 0x262f2 <buf+50> "a9fec\n\r"
+$827 = 97 'a'
+$828 = {data = 0, head = 986, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=6) at tty_io.c:305
+305				if (O_POST(tty)) {
+$829 = 0x262f3 <buf+51> "9fec\n\r"
+$830 = 57 '9'
+$831 = {data = 0, head = 987, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=5) at tty_io.c:305
+305				if (O_POST(tty)) {
+$832 = 0x262f4 <buf+52> "fec\n\r"
+$833 = 102 'f'
+$834 = {data = 0, head = 988, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=4) at tty_io.c:305
+305				if (O_POST(tty)) {
+$835 = 0x262f5 <buf+53> "ec\n\r"
+$836 = 101 'e'
+$837 = {data = 0, head = 989, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=3) at tty_io.c:305
+305				if (O_POST(tty)) {
+$838 = 0x262f6 <buf+54> "c\n\r"
+$839 = 99 'c'
+$840 = {data = 0, head = 990, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=2) at tty_io.c:305
+305				if (O_POST(tty)) {
+$841 = 0x262f7 <buf+55> "\n\r"
+$842 = 10 '\n'
+$843 = {data = 0, head = 991, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=2) at tty_io.c:305
+305				if (O_POST(tty)) {
+$844 = 0x262f7 <buf+55> "\n\r"
+$845 = 10 '\n'
+$846 = {data = 0, head = 992, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    buf=0x262c0 <buf> "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", nr=1) at tty_io.c:305
+305				if (O_POST(tty)) {
+$847 = 0x262f8 <buf+56> "\r"
+$848 = 13 '\r'
+$849 = {data = 0, head = 993, tail = 935, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at printk.c:40
+40		return i;
+$850 = 57
+
+
+    fmt=0x19fd4 "\n\rds\tes\tfs\ttr\n\r%4x\t%4x\t%4x\t%4x\n\r") at printk.c:26
+26		va_start(args, fmt);
+$851 = "esi\t\tedi\t\tebp\t\tesp\n\r       1\t     ffc\t 3fffef8\t  fa9fec\n\r", '\000' <repeats 966 times>
+
+
+    fmt=0x19fd4 "\n\rds\tes\tfs\ttr\n\r%4x\t%4x\t%4x\t%4x\n\r") at printk.c:29
+29		__asm__("push %%fs\n\t"
+$852 = "\n\rds\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r\000 3fffef8\t  fa9fec\n\r", '\000' <repeats 966 times>
+
+
+    nr=37) at tty_io.c:297
+297		if (channel>2 || nr<0) return -1;
+$853 = 0
+$854 = 0x262c0 <buf> "\n\rds\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$855 = 37
+
+
+    nr=37) at tty_io.c:305
+305				if (O_POST(tty)) {
+$856 = 0x262c0 <buf> "\n\rds\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$857 = 10 '\n'
+$858 = {data = 0, head = 994, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=37) at tty_io.c:305
+305				if (O_POST(tty)) {
+$859 = 0x262c0 <buf> "\n\rds\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$860 = 10 '\n'
+$861 = {data = 0, head = 995, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=36) at tty_io.c:305
+305				if (O_POST(tty)) {
+$862 = 0x262c1 <buf+1> "\rds\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$863 = 13 '\r'
+$864 = {data = 0, head = 996, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=35) at tty_io.c:305
+305				if (O_POST(tty)) {
+$865 = 0x262c2 <buf+2> "ds\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$866 = 100 'd'
+$867 = {data = 0, head = 997, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=34) at tty_io.c:305
+305				if (O_POST(tty)) {
+$868 = 0x262c3 <buf+3> "s\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$869 = 115 's'
+$870 = {data = 0, head = 998, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=33) at tty_io.c:305
+305				if (O_POST(tty)) {
+$871 = 0x262c4 <buf+4> "\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$872 = 9 '\t'
+$873 = {data = 0, head = 999, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=32) at tty_io.c:305
+305				if (O_POST(tty)) {
+$874 = 0x262c5 <buf+5> "es\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$875 = 101 'e'
+$876 = {data = 0, head = 1000, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=31) at tty_io.c:305
+305				if (O_POST(tty)) {
+$877 = 0x262c6 <buf+6> "s\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$878 = 115 's'
+$879 = {data = 0, head = 1001, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=30) at tty_io.c:305
+305				if (O_POST(tty)) {
+$880 = 0x262c7 <buf+7> "\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$881 = 9 '\t'
+$882 = {data = 0, head = 1002, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=29) at tty_io.c:305
+305				if (O_POST(tty)) {
+$883 = 0x262c8 <buf+8> "fs\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$884 = 102 'f'
+$885 = {data = 0, head = 1003, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=28) at tty_io.c:305
+305				if (O_POST(tty)) {
+$886 = 0x262c9 <buf+9> "s\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$887 = 115 's'
+$888 = {data = 0, head = 1004, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=27) at tty_io.c:305
+305				if (O_POST(tty)) {
+$889 = 0x262ca <buf+10> "\ttr\n\r  17\t  17\t50017\t  60\n\r"
+$890 = 9 '\t'
+$891 = {data = 0, head = 1005, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=26) at tty_io.c:305
+305				if (O_POST(tty)) {
+$892 = 0x262cb <buf+11> "tr\n\r  17\t  17\t50017\t  60\n\r"
+$893 = 116 't'
+$894 = {data = 0, head = 1006, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=25) at tty_io.c:305
+305				if (O_POST(tty)) {
+$895 = 0x262cc <buf+12> "r\n\r  17\t  17\t50017\t  60\n\r"
+$896 = 114 'r'
+$897 = {data = 0, head = 1007, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=24) at tty_io.c:305
+305				if (O_POST(tty)) {
+$898 = 0x262cd <buf+13> "\n\r  17\t  17\t50017\t  60\n\r"
+$899 = 10 '\n'
+$900 = {data = 0, head = 1008, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=24) at tty_io.c:305
+305				if (O_POST(tty)) {
+$901 = 0x262cd <buf+13> "\n\r  17\t  17\t50017\t  60\n\r"
+$902 = 10 '\n'
+$903 = {data = 0, head = 1009, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=23) at tty_io.c:305
+305				if (O_POST(tty)) {
+$904 = 0x262ce <buf+14> "\r  17\t  17\t50017\t  60\n\r"
+$905 = 13 '\r'
+$906 = {data = 0, head = 1010, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=22) at tty_io.c:305
+305				if (O_POST(tty)) {
+$907 = 0x262cf <buf+15> "  17\t  17\t50017\t  60\n\r"
+$908 = 32 ' '
+$909 = {data = 0, head = 1011, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=21) at tty_io.c:305
+305				if (O_POST(tty)) {
+$910 = 0x262d0 <buf+16> " 17\t  17\t50017\t  60\n\r"
+$911 = 32 ' '
+$912 = {data = 0, head = 1012, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=20) at tty_io.c:305
+305				if (O_POST(tty)) {
+$913 = 0x262d1 <buf+17> "17\t  17\t50017\t  60\n\r"
+$914 = 49 '1'
+$915 = {data = 0, head = 1013, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=19) at tty_io.c:305
+305				if (O_POST(tty)) {
+$916 = 0x262d2 <buf+18> "7\t  17\t50017\t  60\n\r"
+$917 = 55 '7'
+$918 = {data = 0, head = 1014, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=18) at tty_io.c:305
+305				if (O_POST(tty)) {
+$919 = 0x262d3 <buf+19> "\t  17\t50017\t  60\n\r"
+$920 = 9 '\t'
+$921 = {data = 0, head = 1015, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=17) at tty_io.c:305
+305				if (O_POST(tty)) {
+$922 = 0x262d4 <buf+20> "  17\t50017\t  60\n\r"
+$923 = 32 ' '
+$924 = {data = 0, head = 1016, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=16) at tty_io.c:305
+305				if (O_POST(tty)) {
+$925 = 0x262d5 <buf+21> " 17\t50017\t  60\n\r"
+$926 = 32 ' '
+$927 = {data = 0, head = 1017, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=15) at tty_io.c:305
+305				if (O_POST(tty)) {
+$928 = 0x262d6 <buf+22> "17\t50017\t  60\n\r"
+$929 = 49 '1'
+$930 = {data = 0, head = 1018, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=14) at tty_io.c:305
+305				if (O_POST(tty)) {
+$931 = 0x262d7 <buf+23> "7\t50017\t  60\n\r"
+$932 = 55 '7'
+$933 = {data = 0, head = 1019, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=13) at tty_io.c:305
+305				if (O_POST(tty)) {
+$934 = 0x262d8 <buf+24> "\t50017\t  60\n\r"
+$935 = 9 '\t'
+$936 = {data = 0, head = 1020, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=12) at tty_io.c:305
+305				if (O_POST(tty)) {
+$937 = 0x262d9 <buf+25> "50017\t  60\n\r"
+$938 = 53 '5'
+$939 = {data = 0, head = 1021, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=11) at tty_io.c:305
+305				if (O_POST(tty)) {
+$940 = 0x262da <buf+26> "0017\t  60\n\r"
+$941 = 48 '0'
+$942 = {data = 0, head = 1022, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=10) at tty_io.c:305
+305				if (O_POST(tty)) {
+$943 = 0x262db <buf+27> "017\t  60\n\r"
+$944 = 48 '0'
+$945 = {data = 0, head = 1023, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=9) at tty_io.c:305
+305				if (O_POST(tty)) {
+$946 = 0x262dc <buf+28> "17\t  60\n\r"
+$947 = 49 '1'
+$948 = {data = 0, head = 0, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "Partition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=8) at tty_io.c:305
+305				if (O_POST(tty)) {
+$949 = 0x262dd <buf+29> "7\t  60\n\r"
+$950 = 55 '7'
+$951 = {data = 0, head = 1, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "1artition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=7) at tty_io.c:305
+305				if (O_POST(tty)) {
+$952 = 0x262de <buf+30> "\t  60\n\r"
+$953 = 9 '\t'
+$954 = {data = 0, head = 2, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "17rtition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=6) at tty_io.c:305
+305				if (O_POST(tty)) {
+$955 = 0x262df <buf+31> "  60\n\r"
+$956 = 32 ' '
+$957 = {data = 0, head = 3, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "17\ttition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=5) at tty_io.c:305
+305				if (O_POST(tty)) {
+$958 = 0x262e0 <buf+32> " 60\n\r"
+$959 = 32 ' '
+$960 = {data = 0, head = 4, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "17\t ition table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=4) at tty_io.c:305
+305				if (O_POST(tty)) {
+$961 = 0x262e1 <buf+33> "60\n\r"
+$962 = 54 '6'
+$963 = {data = 0, head = 5, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  tion table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=3) at tty_io.c:305
+305				if (O_POST(tty)) {
+$964 = 0x262e2 <buf+34> "0\n\r"
+$965 = 48 '0'
+$966 = {data = 0, head = 6, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  6ion table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=2) at tty_io.c:305
+305				if (O_POST(tty)) {
+$967 = 0x262e3 <buf+35> "\n\r"
+$968 = 10 '\n'
+$969 = {data = 0, head = 7, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60on table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=2) at tty_io.c:305
+305				if (O_POST(tty)) {
+$970 = 0x262e3 <buf+35> "\n\r"
+$971 = 10 '\n'
+$972 = {data = 0, head = 8, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\rn table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    nr=1) at tty_io.c:305
+305				if (O_POST(tty)) {
+$973 = 0x262e4 <buf+36> "\r"
+$974 = 13 '\r'
+$975 = {data = 0, head = 9, tail = 994, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n table ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    fmt=0x19fd4 "\n\rds\tes\tfs\ttr\n\r%4x\t%4x\t%4x\t%4x\n\r") at printk.c:40
+40		return i;
+$976 = 37
+
+
+    at printk.c:26
+26		va_start(args, fmt);
+$977 = "\n\rds\tes\tfs\ttr\n\r  17\t  17\t50017\t  60\n\r\000 3fffef8\t  fa9fec\n\r", '\000' <repeats 966 times>
+
+
+    at printk.c:29
+29		__asm__("push %%fs\n\t"
+$978 = "EIP:       1c   CS:    f  EFLAGS:      202\n\r\000\070\t  fa9fec\n\r", '\000' <repeats 966 times>
+
+
+    at tty_io.c:297
+297		if (channel>2 || nr<0) return -1;
+$979 = 0
+$980 = 0x262c0 <buf> "EIP:       1c   CS:    f  EFLAGS:      202\n\r"
+$981 = 44
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$982 = 0x262c0 <buf> "EIP:       1c   CS:    f  EFLAGS:      202\n\r"
+$983 = 69 'E'
+$984 = {data = 0, head = 10, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rtable ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$985 = 0x262c1 <buf+1> "IP:       1c   CS:    f  EFLAGS:      202\n\r"
+$986 = 73 'I'
+$987 = {data = 0, head = 11, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEable ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$988 = 0x262c2 <buf+2> "P:       1c   CS:    f  EFLAGS:      202\n\r"
+$989 = 80 'P'
+$990 = {data = 0, head = 12, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIble ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$991 = 0x262c3 <buf+3> ":       1c   CS:    f  EFLAGS:      202\n\r"
+$992 = 58 ':'
+$993 = {data = 0, head = 13, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIPle ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$994 = 0x262c4 <buf+4> "       1c   CS:    f  EFLAGS:      202\n\r"
+$995 = 32 ' '
+$996 = {data = 0, head = 14, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:e ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$997 = 0x262c5 <buf+5> "      1c   CS:    f  EFLAGS:      202\n\r"
+$998 = 32 ' '
+$999 = {data = 0, head = 15, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:  ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1000 = 0x262c6 <buf+6> "     1c   CS:    f  EFLAGS:      202\n\r"
+$1001 = 32 ' '
+$1002 = {data = 0, head = 16, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:  ok.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1003 = 0x262c7 <buf+7> "    1c   CS:    f  EFLAGS:      202\n\r"
+$1004 = 32 ' '
+$1005 = {data = 0, head = 17, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:   k.\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1006 = 0x262c8 <buf+8> "   1c   CS:    f  EFLAGS:      202\n\r"
+$1007 = 32 ' '
+$1008 = {data = 0, head = 18, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:    .\r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1009 = 0x262c9 <buf+9> "  1c   CS:    f  EFLAGS:      202\n\r"
+$1010 = 32 ' '
+$1011 = {data = 0, head = 19, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:     \r\n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1012 = 0x262ca <buf+10> " 1c   CS:    f  EFLAGS:      202\n\r"
+$1013 = 32 ' '
+$1014 = {data = 0, head = 20, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:      \n\r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1015 = 0x262cb <buf+11> "1c   CS:    f  EFLAGS:      202\n\r"
+$1016 = 49 '1'
+$1017 = {data = 0, head = 21, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       \r51279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1018 = 0x262cc <buf+12> "c   CS:    f  EFLAGS:      202\n\r"
+$1019 = 99 'c'
+$1020 = {data = 0, head = 22, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       151279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1021 = 0x262cd <buf+13> "   CS:    f  EFLAGS:      202\n\r"
+$1022 = 32 ' '
+$1023 = {data = 0, head = 23, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c1279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1024 = 0x262ce <buf+14> "  CS:    f  EFLAGS:      202\n\r"
+$1025 = 32 ' '
+$1026 = {data = 0, head = 24, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c 279/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1027 = 0x262cf <buf+15> " CS:    f  EFLAGS:      202\n\r"
+$1028 = 32 ' '
+$1029 = {data = 0, head = 25, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c  79/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1030 = 0x262d0 <buf+16> "CS:    f  EFLAGS:      202\n\r"
+$1031 = 67 'C'
+$1032 = {data = 0, head = 26, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   9/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1033 = 0x262d1 <buf+17> "S:    f  EFLAGS:      202\n\r"
+$1034 = 83 'S'
+$1035 = {data = 0, head = 27, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   C/62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1036 = 0x262d2 <buf+18> ":    f  EFLAGS:      202\n\r"
+$1037 = 58 ':'
+$1038 = {data = 0, head = 28, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS62000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1039 = 0x262d3 <buf+19> "    f  EFLAGS:      202\n\r"
+$1040 = 32 ' '
+$1041 = {data = 0, head = 29, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:2000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1042 = 0x262d4 <buf+20> "   f  EFLAGS:      202\n\r"
+$1043 = 32 ' '
+$1044 = {data = 0, head = 30, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS: 000 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1045 = 0x262d5 <buf+21> "  f  EFLAGS:      202\n\r"
+$1046 = 32 ' '
+$1047 = {data = 0, head = 31, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:  00 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1048 = 0x262d6 <buf+22> " f  EFLAGS:      202\n\r"
+$1049 = 32 ' '
+$1050 = {data = 0, head = 32, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:   0 free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1051 = 0x262d7 <buf+23> "f  EFLAGS:      202\n\r"
+$1052 = 102 'f'
+$1053 = {data = 0, head = 33, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:     free blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1054 = 0x262d8 <buf+24> "  EFLAGS:      202\n\r"
+$1055 = 32 ' '
+$1056 = {data = 0, head = 34, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    ffree blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1057 = 0x262d9 <buf+25> " EFLAGS:      202\n\r"
+$1058 = 32 ' '
+$1059 = {data = 0, head = 35, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f ree blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1060 = 0x262da <buf+26> "EFLAGS:      202\n\r"
+$1061 = 69 'E'
+$1062 = {data = 0, head = 36, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  ee blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1063 = 0x262db <buf+27> "FLAGS:      202\n\r"
+$1064 = 70 'F'
+$1065 = {data = 0, head = 37, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  Ee blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1066 = 0x262dc <buf+28> "LAGS:      202\n\r"
+$1067 = 76 'L'
+$1068 = {data = 0, head = 38, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EF blocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1069 = 0x262dd <buf+29> "AGS:      202\n\r"
+$1070 = 65 'A'
+$1071 = {data = 0, head = 39, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLblocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1072 = 0x262de <buf+30> "GS:      202\n\r"
+$1073 = 71 'G'
+$1074 = {data = 0, head = 40, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAlocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1075 = 0x262df <buf+31> "S:      202\n\r"
+$1076 = 83 'S'
+$1077 = {data = 0, head = 41, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGocks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1078 = 0x262e0 <buf+32> ":      202\n\r"
+$1079 = 58 ':'
+$1080 = {data = 0, head = 42, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGScks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1081 = 0x262e1 <buf+33> "      202\n\r"
+$1082 = 32 ' '
+$1083 = {data = 0, head = 43, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:ks\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1084 = 0x262e2 <buf+34> "     202\n\r"
+$1085 = 32 ' '
+$1086 = {data = 0, head = 44, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS: s\r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1087 = 0x262e3 <buf+35> "    202\n\r"
+$1088 = 32 ' '
+$1089 = {data = 0, head = 45, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:  \r\n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1090 = 0x262e4 <buf+36> "   202\n\r"
+$1091 = 32 ' '
+$1092 = {data = 0, head = 46, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:   \n\r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1093 = 0x262e5 <buf+37> "  202\n\r"
+$1094 = 32 ' '
+$1095 = {data = 0, head = 47, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:    \r20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1096 = 0x262e6 <buf+38> " 202\n\r"
+$1097 = 32 ' '
+$1098 = {data = 0, head = 48, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:     20004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1099 = 0x262e7 <buf+39> "202\n\r"
+$1100 = 50 '2'
+$1101 = {data = 0, head = 49, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:      0004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1102 = 0x262e8 <buf+40> "02\n\r"
+$1103 = 48 '0'
+$1104 = {data = 0, head = 50, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:      2004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1105 = 0x262e9 <buf+41> "2\n\r"
+$1106 = 50 '2'
+$1107 = {data = 0, head = 51, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:      2004/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1108 = 0x262ea <buf+42> "\n\r"
+$1109 = 10 '\n'
+$1110 = {data = 0, head = 52, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:      2024/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1111 = 0x262ea <buf+42> "\n\r"
+$1112 = 10 '\n'
+$1113 = {data = 0, head = 53, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:      202\r/20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at tty_io.c:305
+305				if (O_POST(tty)) {
+$1114 = 0x262eb <buf+43> "\r"
+$1115 = 13 '\r'
+$1116 = {data = 0, head = 54, tail = 10, proc_list = 0x0 <startup_32>, 
+  buf = "17\t  60\r\n\rEIP:       1c   CS:    f  EFLAGS:      202\r\n20666 free inodes\r\n\r3423 buffers = 3505152 bytes buffer space\r\n\rFree mem: 12582912 bytes\r\n\r Ok. \r\n[/usr/root]# cd examples/\r\n[/usr/root/examples]#"...}
+
+
+    at printk.c:40
+40		return i;
+$1117 = 44
+
+
+Breakpoint 31, no_error_code () at asm.s:40
+40		addl $8,%esp
+ss             0x10	16
+esp            0xfa9fbc	0xfa9fbc
+eflags         0x216	[ PF AF IF ]
+cs             0x8	8
+eip            0x847e	0x847e <no_error_code+33>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x22000	139264
+edx            0x2c	44
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x10	16
+es             0x10	16
+fs             0x10	16
+
+
+Breakpoint 33, no_error_code () at asm.s:42
+42		pop %es
+ss             0x10	16
+esp            0xfa9fc8	0xfa9fc8
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x8483	0x8483 <no_error_code+38>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x22000	139264
+edx            0x2c	44
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x10	16
+es             0x10	16
+fs             0x17	23
+
+
+Breakpoint 35, no_error_code () at asm.s:44
+44		popl %ebp
+ss             0x10	16
+esp            0xfa9fcc	0xfa9fcc
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x8485	0x8485 <no_error_code+40>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x22000	139264
+edx            0x2c	44
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x10	16
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 35, no_error_code () at asm.s:44
+44		popl %ebp
+ss             0x10	16
+esp            0xfa9fd0	0xfa9fd0
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x8485	0x8485 <no_error_code+40>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x22000	139264
+edx            0x2c	44
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 37, no_error_code () at asm.s:46
+46		popl %edi
+ss             0x10	16
+esp            0xfa9fd4	0xfa9fd4
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x8487	0x8487 <no_error_code+42>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x22000	139264
+edx            0x2c	44
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 37, no_error_code () at asm.s:46
+46		popl %edi
+ss             0x10	16
+esp            0xfa9fd8	0xfa9fd8
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x8487	0x8487 <no_error_code+42>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x22000	139264
+edx            0x2c	44
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 39, no_error_code () at asm.s:48
+48		popl %ecx
+ss             0x10	16
+esp            0xfa9fdc	0xfa9fdc
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x8489	0x8489 <no_error_code+44>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x22000	139264
+edx            0x2c	44
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 39, no_error_code () at asm.s:48
+48		popl %ecx
+ss             0x10	16
+esp            0xfa9fe0	0xfa9fe0
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x8489	0x8489 <no_error_code+44>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x22000	139264
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 41, no_error_code () at asm.s:50
+50		popl %eax
+ss             0x10	16
+esp            0xfa9fe4	0xfa9fe4
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x848b	0x848b <no_error_code+46>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23
+
+
+Breakpoint 41, no_error_code () at asm.s:50
+50		popl %eax
+ss             0x10	16
+esp            0xfa9fe8	0xfa9fe8
+eflags         0x212	[ AF IF ]
+cs             0x8	8
+eip            0x848b	0x848b <no_error_code+46>
+eax            0x2c	44
+ebx            0x5dc0c	384012
+ecx            0x5e18c	385420
+edx            0x4b14c	307532
+edi            0xffc	4092
+esi            0x1	1
+ebp            0x3fffef8	0x3fffef8
+ds             0x17	23
+es             0x17	23
+fs             0x17	23

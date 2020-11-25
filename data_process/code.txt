@@ -1,0 +1,297 @@
+define output_stack
+    #x/10x $sp
+    set $now = $esp
+    while($now<=$ebp)
+        output /x ($now)
+        echo \n
+        p $now
+        set $now = $now + 1
+    end
+end
+
+define output_asm
+    i r ss
+    i r esp
+    i r eflags
+    i r cs
+    i r eip
+    i r eax
+    i r ebx
+    i r ecx
+    i r edx
+    i r edi
+    i r esi
+    i r ebp
+    i r ds
+    i r es
+    i r fs
+    #output_stack
+end
+
+break kernel/asm.s:54
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:22
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:23
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:24
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:25
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:26
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:27
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:28
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:29
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:30
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:31
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:32
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:33
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:34
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:35
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:36
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:37
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:38
+    comm
+        start_output
+        i r ebx
+        echo go_to_traps.c
+        stop_output
+    end
+
+break kernel/traps.c:107
+    comm
+        start_output
+        print esp
+        print error_code
+        print fs
+        print es
+        print ds
+        print ebp
+        print esi
+        print edi
+        print edx
+        print ecx
+        print ebx
+        print eax
+        stop_output
+    end
+
+break kernel/traps.c:110
+    comm
+        start_output
+        print tr
+        stop_output
+    end
+
+break kernel/printk.c:26
+    comm
+        start_output
+        print buf
+        stop_output
+    end
+
+break kernel/printk.c:28
+    comm
+        start_output
+        print buf
+        stop_output
+    end
+
+break kernel/chr_drv/tty_io.c:297
+    comm
+        start_output
+        print channel
+        print buf
+        print nr
+        stop_output
+    end
+
+break kernel/chr_drv/tty_io.c:305
+    comm
+        start_output
+        print b
+        print c
+        print tty->write_q
+        stop_output
+    end
+
+break kernel/printk.c:40
+    comm
+        start_output
+        print i
+        stop_output
+    end
+
+break kernel/asm.s:40
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:41
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:42
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:43
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:44
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:45
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:46
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:47
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:48
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:49
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
+
+break kernel/asm.s:50
+    comm
+        start_output
+        output_asm
+        stop_output
+    end
